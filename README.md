@@ -1,6 +1,6 @@
 # Movie Recommender React App
 
-![Movie Recommender](https://raw.githubusercontent.com/ShouryaSengar/react-movie-app/main/MovieAppSS.png)
+
 
 This is a simple React-based web application that helps you find movie information by searching for a movie title. It serves as an excellent project to understand the basics of React and API handling in React.
 

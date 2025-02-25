@@ -126,7 +126,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
      ```
 
 6. **Create a Pull Request to Merge Your Changes Into the Main Repository**:
-   - Visit the [main repository](https://github.com/ShouryaSengar/react-movie-app).
+   - Visit the [main repository].
    - Click the "New Pull Request" button.
    - Select your fork and branch for the pull request.
    - Provide a clear title and description for your pull request.
